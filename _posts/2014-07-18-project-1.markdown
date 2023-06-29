@@ -7,8 +7,5 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: Marc adventure was a platforms game,
-you controll a yellow cube his name is marc,
-in this game you need to save the world of the hands
-of redube
+description: Marc adventure was a platforms game, you controll a yellow cube his name is marc, in this game you need to save the world of the hands of redube
 ---
