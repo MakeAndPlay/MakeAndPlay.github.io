@@ -10,5 +10,5 @@ category: Web Development
 description: Marc adventure was a platforms game,
 you controll a yellow cube his name is marc,
 in this game you need to save the world of the hands
-of redube.
+of redube
 ---
